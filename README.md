@@ -4,3 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `npm instal`
 <br>to run application use<br>
 `npm start`
+<br>
+##Notes
+<br>For using openweathermap.org API you need api key
+<br>change API_KEY in<br>
+`forecast-weather-app/src/Service.js`
